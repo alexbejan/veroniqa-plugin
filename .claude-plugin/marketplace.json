@@ -1,0 +1,13 @@
+{
+  "name": "veroniqa",
+  "owner": {
+    "name": "Veroniqa"
+  },
+  "plugins": [
+    {
+      "name": "veroniqa-staging",
+      "source": "./plugins/veroniqa-staging",
+      "description": "Veroniqa, the team's shared memory: its skill and its connection, on Veroniqa's test copy (staging)"
+    }
+  ]
+}

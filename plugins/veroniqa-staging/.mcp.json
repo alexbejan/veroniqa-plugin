@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "veroniqa": {
+      "type": "http",
+      "url": "https://staging.veroniqa.ai/mcp"
+    }
+  }
+}
